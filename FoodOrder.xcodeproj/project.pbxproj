@@ -52,6 +52,8 @@
 		FAAF4B782AFE6C7600CBA18E /* FoodOrder */ = {
 			isa = PBXGroup;
 			children = (
+				FAAF4B892AFE6D6E00CBA18E /* Views */,
+				FAAF4B882AFE6D6200CBA18E /* Models */,
 				FAAF4B792AFE6C7600CBA18E /* FoodOrderApp.swift */,
 				FAAF4B7B2AFE6C7600CBA18E /* ContentView.swift */,
 				FAAF4B7D2AFE6C7A00CBA18E /* Assets.xcassets */,
@@ -67,6 +69,20 @@
 				FAAF4B812AFE6C7A00CBA18E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FAAF4B882AFE6D6200CBA18E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FAAF4B892AFE6D6E00CBA18E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
